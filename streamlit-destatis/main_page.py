@@ -1,3 +1,8 @@
+'''
+install streamlit "https://docs.streamlit.io/library/get-started/installation"
+run file as ">streamlit run main_page.py"
+'''
+
 import streamlit as st
 import pandas as pd
 import numpy as np
